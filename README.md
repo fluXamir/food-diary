@@ -1,6 +1,6 @@
 # 🍽️ Food Diary App
 
-A **Java desktop application** built using **NetBeans** with **Drag-and-Drop GUI design** and a **local database** to help users track their daily meals.  
+A **Java desktop application** built using **NetBeans** with **Drag-and-Drop GUI design** and a **local database** to help users add, edit, view recipes.  
 This was created as part of my **First Year project**.
 
 ---
@@ -15,8 +15,8 @@ This was created as part of my **First Year project**.
 
 ## ✨ Features
 
-- Add, view, and delete daily food entries
-- Categorize meals (e.g., Breakfast, Lunch, Snacks, Dinner)
+- Add, view, and delete daily food recipes.
+- Add your Favourite recipes.
 - Simple GUI interface built in NetBeans
 - Data stored locally in a database
 
